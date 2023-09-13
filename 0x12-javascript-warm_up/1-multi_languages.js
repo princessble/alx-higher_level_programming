@@ -8,4 +8,3 @@ console.log("Python is cool");
 
 // Use console.log(...) to print the third line
 console.log("JavaScript is amazing");
-
